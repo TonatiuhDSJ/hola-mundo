@@ -1,4 +1,4 @@
-# hola-mundo
+# hola-mundo :ok_hand:
 Este es mi primer repositiorio de prueba
 
 Autor: Tonatiuh O.
